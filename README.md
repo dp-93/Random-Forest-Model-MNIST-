@@ -9,3 +9,8 @@ This project dives into the domain of Computer Vision. I built a model to classi
 * **Computer Vision:** Working with image pixel data.
 * **Data Preparation:** Reshaping and normalizing image data for a machine learning model.
 * **Multi-Class Classification:** Building a model to predict one of ten possible categories.
+
+### Interactive Demo & Deployment
+To complete the project lifecycle, I deployed the trained neural network as an interactive web application using **Gradio**. This app allows a user to draw a digit on a sketchpad and see the model's prediction in real-time.
+
+![Live Demo of the Digit Recognizer](link_to_your_gif.gif)
