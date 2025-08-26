@@ -13,4 +13,4 @@ This project dives into the domain of Computer Vision. I built a model to classi
 ### Interactive Demo & Deployment
 To complete the project lifecycle, I deployed the trained neural network as an interactive web application using **Gradio**. This app allows a user to draw a digit on a sketchpad and see the model's prediction in real-time.
 
-![Live Demo of the Digit Recognizer](link_to_your_gif.gif)
+![Live Demo of the Digit Recognizer](https://github.com/dp-93/Random-Forest-Model-MNIST-/blob/main/MNIST%20-%20Video%20Demo.gif?raw=true)
